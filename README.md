@@ -3,7 +3,7 @@
 
 
 
-## My learnings
+## My Learnings
 
 - Basic PHP
 - Function
